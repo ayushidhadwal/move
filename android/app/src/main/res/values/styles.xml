@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="colorAccent">#0f1f38</item>
+        <item name="android:colorControlActivated">#FFFFFF</item>
+        <item name="android:textColorHighlight">#FFFFFF</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+</resources>
